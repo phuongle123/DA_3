@@ -1,0 +1,9 @@
+Do an: Ky Thuat Phan Mem 3
+
+De tai: Xay dung website quan ly CV bang PHP va MySQL
+
+Sing Vien Thuc Hien
+Tran Ngoc Huyen (MSSV 1500655)
+Le Thi Diem Phuong (MSSV 1500808) 
+
+Chuyen nganh: Ky Thuat Phan Mem - 2015
